@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1587818204 source:f:\tugas besar\tubess\main.cpp
+	<iostream>
+	"tubess.h"
+	<stdlib.h>
+
+1587818204 f:\tugas besar\tubess\tubess.h
+	<iostream>
+
+1587818204 source:f:\tugas besar\tubess\tubess.cpp
+	<iostream>
+	"tubess.h"
+
